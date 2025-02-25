@@ -77,7 +77,8 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 
 ## 🎓 **Education & Certifications**
 
-🎓 **B.C.Sc (Software Engineering)** - University of Information Technology, Yangon, Myanmar  
+🎓 **Education
+**B.C.Sc (Software Engineering)** - University of Information Technology, Yangon, Myanmar  
 
 📜 **Certifications**  
 ✅ **Cypress: Web Automation Testing** - Udemy  <br>
