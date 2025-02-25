@@ -11,9 +11,9 @@
 ## 👩‍💻 1. About Me  
 Experienced and reliable **Quality Assurance Engineer** with nearly **5 years of expertise in the Fintech industry**. Passionate about delivering high-quality software through **manual and automated testing**. Skilled in ensuring software quality by designing, developing, and executing test cases, identifying defects, and collaborating with cross-functional teams.
 
-📞 **Phone:** [+66944255071](tel:+66944255071)
-📧 **Email:** [theintthiriag98@gmail.com](mailto:theintthiriag98@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/theint-thiri-aung](https://www.linkedin.com/in/theint-thiri-aung-treasure-a54578192/)  
+📞 **Phone:** [+66944255071](tel:+66944255071) <br>
+📧 **Email:** [theintthiriag98@gmail.com](mailto:theintthiriag98@gmail.com)   <br>
+🔗 **LinkedIn:** [linkedin.com/in/theint-thiri-aung](https://www.linkedin.com/in/theint-thiri-aung-treasure-a54578192/)   <br>
 
 ---
 
