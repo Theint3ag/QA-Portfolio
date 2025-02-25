@@ -5,7 +5,7 @@ Experienced and reliable **Quality Assurance Engineer** with nearly **5 years of
 
 📞 **Phone:** [+66944255071](tel:+66944255071)
 📧 **Email:** [theintthiriag98@gmail.com](mailto:theintthiriag98@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/theint-thiri-aung](https://www.linkedin.com/in/theint-thiri-aung-a54578192)  
+🔗 **LinkedIn:** [linkedin.com/in/theint-thiri-aung](https://www.linkedin.com/in/theint-thiri-aung-a54578192/)  
 
 ---
 
