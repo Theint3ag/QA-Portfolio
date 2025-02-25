@@ -1,6 +1,14 @@
 # 🛠️ Theint Thiri Aung - QA Portfolio
 
-## 👩‍💻 About Me
+## 📌 Topics
+1. **About Me**
+2. **Skills & Technologies**
+3. **Projects**
+4. **Test Automation Portfolio**
+5. **Work Experience**
+6. **Education & Certifications**
+
+## 👩‍💻 1. About Me  
 Experienced and reliable **Quality Assurance Engineer** with nearly **5 years of expertise in the Fintech industry**. Passionate about delivering high-quality software through **manual and automated testing**. Skilled in ensuring software quality by designing, developing, and executing test cases, identifying defects, and collaborating with cross-functional teams.
 
 📞 **Phone:** [+66944255071](tel:+66944255071)
@@ -9,7 +17,7 @@ Experienced and reliable **Quality Assurance Engineer** with nearly **5 years of
 
 ---
 
-## 📌 **Skills & Technologies**
+## 📌 2. Skills & Technologies
 - **Manual Testing**: Functional Testing, Regression Testing, Usability Testing  , Exploratory Testing
 - **Automation Testing**: Cypress, Katalon Studio  
 - **API Testing**: Postman, RestAssured  
@@ -20,9 +28,23 @@ Experienced and reliable **Quality Assurance Engineer** with nearly **5 years of
 
 ---
 
-## 📂 **Projects & Repositories**
+## 📂 3. Projects
 Here are some of my key projects that demonstrate my expertise in Quality Assurance:
+### 🔹 **Yoma Bank NextGen (Mobile Banking App)**
+- Tested core banking features including fund transfers and bill payments  
+- Created and executed automation scripts using Katalon Studio  
 
+### 🔹 **CBM MIS (Web Portal)**
+- Conducted functional and regression testing on financial modules  
+- Implemented exploratory testing for security and usability improvements  
+
+### 🔹 **True Money Agent & Customer Apps**
+- Developed test scenarios for financial transactions and user workflows  
+- Used **Postman** for API testing and **JMeter** for performance testing  
+
+---
+
+## ⚙️ 4. Test Automation Portfolio  
 ### 🔹 [QA-Automation-Project](https://github.com/Theint3ag/qa-automation-project)
 **🔹 Tech Stack:** Cypress, JavaScript, GitHub Actions  
 **📌 Description:** This project contains Cypress test automation scripts for an e-commerce website, covering login, checkout, and API testing.  
@@ -47,7 +69,7 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 
 ---
 
-## 📜 **Work Experience**
+## 📜 5. Work Experience
 ### **Software QA Tester** - Woxa Corporation Co., Ltd. *(May 2024 – Present)*
 - Create **test plans** for sprints  
 - Prepare detailed **test cases** for API and UI testing according to product requirements documents on **Confluence**
@@ -75,7 +97,7 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 ---
 
 
-## 🎓 **Education & Certifications**
+## 🎓 6. Education & Certifications
 
 🎓 **Education** <br>
 **B.C.Sc (Software Engineering)** - University of Information Technology, Yangon, Myanmar  
