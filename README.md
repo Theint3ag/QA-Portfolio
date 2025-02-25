@@ -80,13 +80,13 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 🎓 **B.C.Sc (Software Engineering)** - University of Information Technology, Yangon, Myanmar  
 
 📜 **Certifications**  
-✅ **Cypress: Web Automation Testing** - Udemy  
-✅ **Introduction to Cypress** - Test Automation University  
-✅ **Introduction to Postman API**  - Great Learning Academy
-✅ **Certification of Distributed Programming** - ACU
-✅ **Software Solution with Java Course** - Gusto University
-✅ **Information Technology Passport Examination Certificate** - ITPEC
-✅ **Foundation of Leadership & Capacity Development** - Taxila Institute of Youth Leadership & Development
+✅ **Cypress: Web Automation Testing** - Udemy  <br>
+✅ **Introduction to Cypress** - Test Automation University  <br>
+✅ **Introduction to Postman API**  - Great Learning Academy <br>
+✅ **Certification of Distributed Programming** - ACU <br>
+✅ **Software Solution with Java Course** - Gusto University <br>
+✅ **Information Technology Passport Examination Certificate** - ITPEC <br>
+✅ **Foundation of Leadership & Capacity Development** - Taxila Institute of Youth Leadership & Development <br>
 
 
 
