@@ -10,7 +10,7 @@ Experienced and reliable **Quality Assurance Engineer** with nearly **5 years of
 ---
 
 ## 📌 **Skills & Technologies**
-- **Manual Testing**: Functional Testing, Regression Testing, Usability Testing  , Explatory Testing
+- **Manual Testing**: Functional Testing, Regression Testing, Usability Testing  , Exploratory Testing
 - **Automation Testing**: Cypress, Katalon Studio  
 - **API Testing**: Postman, RestAssured  
 - **Performance Testing**: JMeter  
@@ -53,21 +53,24 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 - Prepare detailed **test cases** for API and UI testing according to product requirements documents on **Confluence**
 - Perform **automated testing** with Cypress.  
 - Track and document defects using **Jira**.  
-- Conduct **explatory testing, system integration testing, smoke testing, regression testing and usability testing** across different operating systems.
+- Conduct **exploratory testing, system integration testing, smoke testing, regression testing and usability testing** across different operating systems.
 - Prepare **Statstics** for each feature
 - Present **work done** at the end of the sprint
 
 ### **Software Quality Assurance** - Yoma Bank Co., Ltd. *(Sep 2022 – Dec 2023)*
-- Developed and maintained **manual and automated test cases**.  
+- Developed and maintained **manual and automated test cases**  
 - Wrote **web automation test scripts** using **Katalon Studio**.  
 - Conducted **system integration testing, smoke testing, sanity testing and regression testing**
 - Track and document defects using **Jira**.  
 - Prepared **QA sign-off** documents.  
 
 ### **Quality Assurance Engineer** - True Money Myanmar Co., Ltd. *(Nov 2019 – Aug 2022)*
-- Reviewed **product requirements** and collaborated with developers & product managers.  
+- Reviewed **product requirements** and collaborated with developers & product managers.
+- Prepare detailed **test cases** for API and UI testing according to product requirements documents on **Confluence**
 - Conducted **mobile testing** across **QA, Staging, and Production environments**.  
-- Automated **performance testing** using **JMeter**.  
+- Automated **performance testing** using **JMeter**.
+- Developed and maintained **manual and automated test cases**  
+
 
 ---
 
