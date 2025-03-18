@@ -15,7 +15,9 @@ Experienced and reliable **Quality Assurance Engineer** with nearly **5 years of
 📧 **Email:** [theintthiriag98@gmail.com](mailto:theintthiriag98@gmail.com)   <br>
 🔗 **LinkedIn:** [linkedin.com/in/theint-thiri-aung](https://www.linkedin.com/in/theint-thiri-aung-treasure-a54578192/)   <br>
 
+
 ---
+
 
 ## 📌 2. Skills & Technologies
 - **Manual Testing**: Functional Testing, Regression Testing, Usability Testing  , Exploratory Testing
@@ -26,7 +28,9 @@ Experienced and reliable **Quality Assurance Engineer** with nearly **5 years of
 - **Databases**: PostgreSQL , MySQL, MongoDB
 - **Programming Languages**: Java, JavaScript, C++ 
 
+
 ---
+
 
 ## 📂 3. Projects
 Here are some of my key projects that demonstrate my expertise in Quality Assurance:
@@ -40,35 +44,13 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 
 ### 🔹 **True Money Agent & Customer Apps**
 - Developed test scenarios for financial transactions and user workflows  
-- Used **Postman** for API testing and **JMeter** for performance testing  
+- Used **Postman** for API testing and **JMeter** for performance testing
+
 
 ---
 
-## ⚙️ 4. Test Automation Portfolio  
-### 🔹 [QA-Automation-Project](https://github.com/Theint3ag/qa-automation-project)
-**🔹 Tech Stack:** Cypress, JavaScript, GitHub Actions  
-**📌 Description:** This project contains Cypress test automation scripts for an e-commerce website, covering login, checkout, and API testing.  
-**🚀 Features:**  
-- UI test automation with Cypress  
 
-
-### 🔹 [API-Testing-Suite](https://github.com/Theint3ag/api-testing-suite)
-**🔹 Tech Stack:** Postman  
-**📌 Description:** A collection of API test cases for banking applications using Postman.  
-**🚀 Features:**  
-- Automated API testing  
-
-
-### 🔹 [Performance-Testing-JMeter](https://github.com/Theint3ag/performance-testing-jmeter)
-**🔹 Tech Stack:** JMeter  
-**📌 Description:** Load Testing APIs to simulate multiple users calling APIs to check their scalability and performance.  
-**🚀 Features:**  
-- Load testing scenarios  
-- Summary reports  
-
----
-
-## 📜 5. Work Experience
+## 📜 4. Work Experience
 ### **Software QA Tester** - Woxa Corporation Co., Ltd. *(May 2024 – Present)*
 - Create **test plans** for sprints  
 - Prepare detailed **test cases** for API and UI testing according to product requirements documents on **Confluence**
@@ -96,7 +78,7 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 ---
 
 
-## 🎓 6. Education & Certifications
+## 🎓 5. Education & Certifications
 
 🎓 **Education** <br>
 **B.C.Sc (Software Engineering)** - University of Information Technology, Yangon, Myanmar  
