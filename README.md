@@ -58,7 +58,6 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 **🚀 Features:**  
 - Automated API testing  
 - Environment setup for staging and production  
-//- Integration with Jenkins for continuous testing  
 
 ### 🔹 [Performance-Testing-JMeter](https://github.com/Theint3ag/performance-testing-jmeter)
 **🔹 Tech Stack:** JMeter  
