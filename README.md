@@ -50,14 +50,14 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 **📌 Description:** This project contains Cypress test automation scripts for an e-commerce website, covering login, checkout, and API testing.  
 **🚀 Features:**  
 - UI test automation with Cypress  
-- API testing with Postman  
+
 
 ### 🔹 [API-Testing-Suite](https://github.com/Theint3ag/api-testing-suite)
 **🔹 Tech Stack:** Postman  
 **📌 Description:** A collection of API test cases for banking applications using Postman.  
 **🚀 Features:**  
 - Automated API testing  
-- Environment setup for staging and production  
+
 
 ### 🔹 [Performance-Testing-JMeter](https://github.com/Theint3ag/performance-testing-jmeter)
 **🔹 Tech Stack:** JMeter  
