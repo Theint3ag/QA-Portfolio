@@ -20,11 +20,11 @@ Experienced and reliable **Quality Assurance Engineer** with nearly **5 years of
 ## 📌 2. Skills & Technologies
 - **Manual Testing**: Functional Testing, Regression Testing, Usability Testing  , Exploratory Testing
 - **Automation Testing**: Cypress, Katalon Studio  
-- **API Testing**: Postman, RestAssured  
+- **API Testing**: Postman  
 - **Performance Testing**: JMeter  
 - **Test Management**: Jira, Confluence  
 - **Databases**: PostgreSQL , MySQL, MongoDB
-- **Programming Languages**: Java, JavaScript  
+- **Programming Languages**: Java, JavaScript, C++ 
 
 ---
 
@@ -53,19 +53,19 @@ Here are some of my key projects that demonstrate my expertise in Quality Assura
 - API testing with Postman  
 
 ### 🔹 [API-Testing-Suite](https://github.com/Theint3ag/api-testing-suite)
-**🔹 Tech Stack:** Postman, RestAssured  
-**📌 Description:** A collection of API test cases for banking applications using Postman and RestAssured.  
+**🔹 Tech Stack:** Postman  
+**📌 Description:** A collection of API test cases for banking applications using Postman.  
 **🚀 Features:**  
 - Automated API testing  
 - Environment setup for staging and production  
-- Integration with Jenkins for continuous testing  
+//- Integration with Jenkins for continuous testing  
 
 ### 🔹 [Performance-Testing-JMeter](https://github.com/Theint3ag/performance-testing-jmeter)
 **🔹 Tech Stack:** JMeter  
-**📌 Description:** Load testing scripts to evaluate the performance of web applications.  
+**📌 Description:** Load Testing APIs to simulate multiple users calling APIs to check their scalability and performance.  
 **🚀 Features:**  
-- Stress and load testing scenarios  
-- Detailed test reports  
+- Load testing scenarios  
+- Summary reports  
 
 ---
 
